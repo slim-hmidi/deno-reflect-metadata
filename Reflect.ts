@@ -112,7 +112,7 @@ declare const crypto: Crypto;
 declare const msCrypto: Crypto;
 declare const process: any;
 
-export namespace Reflect {
+namespace Reflect {
   /**
     * Applies a set of decorators to a target object.
     * @param decorators An array of decorators.
