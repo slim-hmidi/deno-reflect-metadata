@@ -1,1 +1,3 @@
-export { Reflect } from "./Reflect.ts";
+import * as R from "./Reflect.ts";
+const Reflect = R.Reflect;
+export {Reflect}
